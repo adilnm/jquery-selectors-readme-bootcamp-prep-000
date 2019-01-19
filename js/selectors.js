@@ -4,7 +4,7 @@ function paragraphSelector()
   return $(`p`)
 }
 
-function paragraphSelector()
+function lastImageSelector()
 {
   return $(`p`)
 }

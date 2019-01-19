@@ -9,4 +9,4 @@ function lastImageSelector()
   return $('img:last')
 }
 
-console.log("sjjjs")
+function 

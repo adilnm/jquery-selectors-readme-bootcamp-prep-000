@@ -6,7 +6,7 @@ function paragraphSelector()
 
 function lastImageSelector()
 {
-  return $(`p`)
+  return $('img:last')
 }
 
 console.log("sjjjs")

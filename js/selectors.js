@@ -13,7 +13,7 @@ function ninjaBabySelector()
 {
   return $(`#baby-ninja`)
 }
-function ninjaBabySelector()
+function divSelector()
 {
   return $(`#baby-ninja`)
 }

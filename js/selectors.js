@@ -4,6 +4,9 @@ function paragraphSelector()
   return $(`p`)
 }
 
-
+function paragraphSelector()
+{
+  return $(`p`)
+}
 
 console.log("sjjjs")
